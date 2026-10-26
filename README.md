@@ -1,1 +1,1 @@
-# activa-updates
+# acquire-updates
